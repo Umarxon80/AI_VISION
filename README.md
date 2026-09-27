@@ -37,3 +37,5 @@ with open("local_predictions.json", "w") as f:
     json.dump(events, f, indent=2)
 print("Saved to local_predictions.json")
 ```
+
+**4. Web site with visual illustration is deployed on https://umarxon80.github.io/AI_VISION_WEB and repository is located at https://github.com/Umarxon80/AI_VISION_WEB
